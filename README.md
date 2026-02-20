@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Luan Araujo
 
-🎓 Estudante de Desenvolvimento de Sistemas na Etec Albert Einstein
+🎓 Estudante de Desenvolvimento de Sistemas na Etec Albert Einstein  
 💻 Desenvolvedor em formação com foco em Front-End e Banco de Dados  
 🚀 Construindo projetos para consolidar conhecimento técnico  
 
