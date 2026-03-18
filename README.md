@@ -32,7 +32,7 @@ Registro organizado das disciplinas e evolução acadêmica.
 🔗 https://luanlhp777.github.io/meu-site-estudos/
 
 📘 **Site dos Exercícios**  
-Registro organizado das discip e evolução acadêmica.  
+Registro organizado dos exercícios.  
 🔗 https://luanlhp777.github.io/exercicios/
 
 ---
