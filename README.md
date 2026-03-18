@@ -19,16 +19,21 @@ Busco evoluir constantemente através de projetos práticos, organização profi
 
 Atualmente praticando:
 
-- HTML5 (estrutura semântica)
-- CSS3 (layout, organização e responsividade)
-- JavaScript (manipulação de DOM e lógica de aplicação)
-- Git e GitHub (versionamento e deploy com GitHub Pages)
+- HTML5 (estrutura semântica e organização de páginas)
+- CSS3 (layout moderno, responsividade e identidade visual)
+- JavaScript (lógica de programação e manipulação de DOM)
+- Node.js (execução de scripts e exercícios de lógica)
+- Git e GitHub (versionamento e publicação de projetos)
 
-Projeto em destaque:
+Projetos em destaque:
 
 📘 **Meu Site de Estudos**  
 Registro organizado das disciplinas e evolução acadêmica.  
 🔗 https://luanlhp777.github.io/meu-site-estudos/
+
+📘 **Site dos Exercícios**  
+Registro organizado das discip e evolução acadêmica.  
+🔗 https://luanlhp777.github.io/exercicios/
 
 ---
 
@@ -51,7 +56,8 @@ Objetivo: integrar front-end com estrutura de dados consistente e bem modelada.
 - HTML5
 - CSS3
 - JavaScript
-- SQL (em aprendizado contínuo)
+- Node.js
+- SQL (em aprendizado)
 - Git
 - GitHub
 - VS Code
@@ -60,10 +66,12 @@ Objetivo: integrar front-end com estrutura de dados consistente e bem modelada.
 
 ## 📈 Em Evolução
 
+- Lógica de programação
 - Estruturação profissional de projetos
 - Boas práticas de versionamento
-- Integração entre interface e dados
-- Construção de portfólio técnico
+- Organização de código
+- Desenvolvimento de portfólio técnico
+- Integração futura com banco de dados
 
 ---
 
