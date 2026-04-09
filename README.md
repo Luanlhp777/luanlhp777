@@ -1,6 +1,6 @@
 # Olá, eu sou Luan Araujo 👋
 
-Sou Desenvolvedor Web Júnior, formado em Análise e Desenvolvimento de Sistemas, com experiência em suporte técnico N1/N2 e infraestrutura.
+Sou Desenvolvedor Web Júnior, formado em Análise e Desenvolvimento de Sistemas, com experiência em suporte técnico e infraestrutura.
 
 Tenho atuado no desenvolvimento de projetos práticos para consolidar conhecimentos em HTML, CSS, JavaScript e PHP, além de utilizar Git e GitHub no versionamento e organização de código.
 
