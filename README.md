@@ -3,7 +3,7 @@
 **`Desenvolvedor Júnior`**
 
 Estudante de Análise e Desenvolvimento de Sistemas, com experiência em suporte técnico e atuação em ambientes corporativos, desenvolvendo habilidades na resolução de problemas e suporte a usuários.
-Atualmente focado em desenvolvimento web, venho construindo projetos práticos para evoluir em lógica de programação, organização de código e aplicação de tecnologias modernas como JavaScript, HTML e CSS. Projetos [Meu Site de Estudos](https://luanlhp777.github.io/meu-site-estudos/) | [Exercícios JS](https://luanlhp777.github.io/exercicios/).
+Atualmente focado em desenvolvimento de software, venho construindo projetos práticos para evoluir em lógica de programação, organização de código e aplicação de tecnologias modernas como JavaScript, HTML e CSS. Projetos [Meu Site de Estudos](https://luanlhp777.github.io/meu-site-estudos/) | [Exercícios JS](https://luanlhp777.github.io/exercicios/).
 
 <p>
   <a href="https://www.linkedin.com/in/luan-pereira-24a8ba86/">
