@@ -1,38 +1,105 @@
-# Olá, eu sou Luan Araujo 👋
+# 👨‍💻 Luan Araujo
 
-Sou Desenvolvedor Web Júnior, formado em Análise e Desenvolvimento de Sistemas, com experiência em suporte técnico e infraestrutura.
+**`Desenvolvedor Júnior`**
 
-Tenho atuado no desenvolvimento de projetos práticos para consolidar conhecimentos em HTML, CSS, JavaScript e PHP, além de utilizar Git e GitHub no versionamento e organização de código.
+Estudante de Análise e Desenvolvimento de Sistemas, com experiência em suporte técnico e atuação em ambientes corporativos, desenvolvendo habilidades na resolução de problemas e suporte a usuários.
+Atualmente focado em desenvolvimento web, venho construindo projetos práticos para evoluir em lógica de programação, organização de código e aplicação de tecnologias modernas como JavaScript, HTML e CSS. Projetos [Meu Site de Estudos](https://luanlhp777.github.io/meu-site-estudos/) | [Exercícios JS](https://luanlhp777.github.io/exercicios/).
 
-## Sobre mim
-- Experiência com suporte técnico a usuários, resolução de incidentes e ambientes corporativos
-- Vivência com infraestrutura, cabeamento, racks, XenServer e máquinas virtuais
-- Foco em desenvolvimento web e evolução constante através de projetos reais
-- Interesse em construir soluções organizadas, funcionais e com boa experiência para o usuário
+<p>
+  <a href="https://www.linkedin.com/in/luan-pereira-24a8ba86/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Luanlhp777">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-## Tecnologias e Ferramentas
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-- Node.js
-- Git
-- GitHub
-- VS Code
-- SQL (em evolução)
+---
 
-## Projetos em destaque
-### Meu Site de Estudos
-Portfólio acadêmico com módulos, disciplinas, diário de estudos e evolução prática em desenvolvimento web.  
-🔗 Projeto online: [Meu Site de Estudos](https://luanlhp777.github.io/meu-site-estudos/)
+### 🤖 Linguagens e Tecnologias
 
-### Exercícios de JavaScript
-Repositório com exercícios práticos de lógica de programação, estruturas de repetição, condicionais e manipulação básica com JavaScript.  
-🔗 Projeto online: [Exercícios](https://luanlhp777.github.io/exercicios/)
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+/>
 
-## Objetivo
-Busco uma oportunidade como Desenvolvedor Júnior ou na área de Tecnologia, onde eu possa contribuir com dedicação, aprendizado rápido e construção de soluções que gerem valor.
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+/>
 
-## Contato
-- LinkedIn: [Luan Pereira](https://www.linkedin.com/in/luan-pereira-24a8ba86/)
-- GitHub: [Luanlhp777](https://github.com/Luanlhp777)
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Github" 
+    title="Github"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Nodejs" 
+    title="Nodejs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Mysql" 
+    title="Mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Luanlhp777&show_icons=true&theme=dracula&hide_border=true"
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanlhp777&layout=compact&theme=dracula&hide_border=true"
+  />
+
+</p>
