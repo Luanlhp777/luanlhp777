@@ -81,25 +81,16 @@ Atualmente focado em desenvolvimento de software, venho construindo projetos pr�
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
 />
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Luanlhp777&show_icons=true&theme=dracula&hide_border=true&title_color=58A6FF"
-  />
-
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanlhp777&layout=compact&theme=dracula&hide_border=true&title_color=58A6FF"
-  />
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+/>
+
+<br/>
+<br/>
 
 </p>
