@@ -1,6 +1,6 @@
 # 👨‍💻 Luan Araujo
 
-**Desenvolvedor Web Júnior**
+**Desenvolvedor Júnior**
 
 Estudante de Análise e Desenvolvimento de Sistemas, com experiência em suporte técnico e foco em desenvolvimento web.
 
