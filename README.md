@@ -2,9 +2,9 @@
 
 **Desenvolvedor Júnior**
 
-Estudante de Análise e Desenvolvimento de Sistemas, com experiência em suporte técnico e foco em desenvolvimento web.
+Estudante de Análise e Desenvolvimento de Sistemas, com experiência em suporte técnico e foco em desenvolvimento.
 
-Atualmente construindo projetos práticos para evoluir em lógica de programação, JavaScript, banco de dados e desenvolvimento de aplicações web.
+Atualmente construindo projetos práticos para evoluir em lógica de programação, JavaScript, banco de dados e desenvolvimento de aplicações.
 
 🌐 **Projetos Online:**  
 [📘 Meu Site de Estudos](https://luanlhp777.github.io/meu-site-estudos/) • [💻 Exercícios JS](https://luanlhp777.github.io/exercicios/)
