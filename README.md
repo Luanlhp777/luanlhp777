@@ -6,8 +6,12 @@ Estudante de Análise e Desenvolvimento de Sistemas, com experiência em suporte
 
 Atualmente construindo projetos práticos para evoluir em lógica de programação, JavaScript, banco de dados e desenvolvimento de aplicações.
 
-🌐 **Projetos Online:**  
-[📘 Meu Site de Estudos](https://luanlhp777.github.io/meu-site-estudos/) • [💻 Exercícios JS](https://luanlhp777.github.io/exercicios/)
+🌐 **Projetos Online**
+
+- 📘 Meu Site de Estudos → https://luanlhp777.github.io/meu-site-estudos/
+- 💻 Exercícios JavaScript → https://luanlhp777.github.io/exercicios/
+- 🏗️ LR Engenharia → https://luanlhp777.github.io/lr-engenharia/
+- 💄 Studio Itamara Oliveira → https://luanlhp777.github.io/studio-itamara-oliveira/
 
 ---
 
@@ -25,18 +29,6 @@ Atualmente construindo projetos práticos para evoluir em lógica de programaç�
 
 ---
 
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição |
-|----------|------------|
-| Meu Site de Estudos | Portfólio acadêmico com disciplinas, projetos e evolução dos estudos |
-| Exercícios JS | Exercícios de lógica de programação utilizando JavaScript |
-| Banco QUIZ | Modelagem de banco de dados para sistema de quiz educacional |
-| LR Engenharia | Site institucional desenvolvido para empresa do setor de engenharia |
-| Tratamento de Exceções | Estudos práticos sobre tratamento de erros em JavaScript |
-| Vetores e Funções | Exercícios focados em vetores, funções e lógica de programação |
-
----
 
 ## 🌐 Contato
 
