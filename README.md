@@ -11,7 +11,7 @@ Atualmente construindo projetos práticos para evoluir em lógica de programaç�
 - 🍄 Coguis Informática → https://coguisinformatica.github.io/coguisinformatica-site-coguis/
 - 📘 Meu Site de Estudos → https://luanlhp777.github.io/meu-site-estudos/
 - 💻 Exercícios JavaScript → https://luanlhp777.github.io/exercicios/
-- 🏗️ LR Engenharia → https://luanlhp777.github.io/lr-engenharia/
+- 🏗️ LR Engenharia → https://www.lrengenharia.ind.br
 - 💄 Studio Itamara Oliveira → https://luanlhp777.github.io/studio-itamara-oliveira/
 
 ---
