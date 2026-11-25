@@ -4,7 +4,7 @@ Desenvolvedor Júnior | Full Stack | Banco de Dados
 
 Formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Desenvolvimento de Sistemas, com experiência em suporte técnico e desenvolvimento de projetos acadêmicos e aplicações reais.
 
-Tenho desenvolvido aplicações utilizando JavaScript, React, Node.js, Express, MySQL e MongoDB, explorando desde interfaces responsivas até APIs REST, CRUD e persistência de dados.
+Tenho desenvolvido aplicações utilizando JavaScript, React, Node.js, Express, MySQL, explorando desde interfaces responsivas até APIs REST, CRUD e persistência de dados.
 
 Atualmente, estou ampliando meus conhecimentos em desenvolvimento Full Stack, integração entre Front-end, Back-end e Banco de Dados, além de boas práticas de organização, documentação e versionamento de projetos.
 
